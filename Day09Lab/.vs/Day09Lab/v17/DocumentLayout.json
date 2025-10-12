@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\migrations\\qlbanhangcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:migrations\\qlbanhangcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\migrations\\20251012130822_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:migrations\\20251012130822_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\models\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:models\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|e:\\dev_tdew\\laptrinhweb\\day09lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B59C1DEC-D803-48C4-9C64-CCDF889A80CB}|Day09Lab.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QlbanHangContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Migrations\\QlbanHangContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\QlbanHangContextModelSnapshot.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Migrations\\QlbanHangContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\QlbanHangContextModelSnapshot.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:08:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251012130822_v1.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Migrations\\20251012130822_v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251012130822_v1.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Migrations\\20251012130822_v1.cs",
+              "RelativeToolTip": "Migrations\\20251012130822_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:08:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangsController.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:02:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T12:54:17.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QlbanHangContext.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Models\\QlbanHangContext.cs",
+              "RelativeDocumentMoniker": "Models\\QlbanHangContext.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\Models\\QlbanHangContext.cs",
+              "RelativeToolTip": "Models\\QlbanHangContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T12:52:53.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\Day09Lab\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T12:27:29.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

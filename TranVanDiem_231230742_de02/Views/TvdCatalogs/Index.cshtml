@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TranVanDiem_231230742_de02.Models.TvdCatalog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdCateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdCatePrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdCateQty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdPicture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdCateActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdCateName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdCatePrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdCateQty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdPicture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdCateActive)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TvdId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TvdId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TvdId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

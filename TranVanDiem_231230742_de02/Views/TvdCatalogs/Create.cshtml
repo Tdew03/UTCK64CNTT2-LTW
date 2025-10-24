@@ -1,0 +1,53 @@
+﻿@model TranVanDiem_231230742_de02.Models.TvdCatalog
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TvdCatalog</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TvdCateName" class="control-label"></label>
+                <input asp-for="TvdCateName" class="form-control" />
+                <span asp-validation-for="TvdCateName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TvdCatePrice" class="control-label"></label>
+                <input asp-for="TvdCatePrice" class="form-control" />
+                <span asp-validation-for="TvdCatePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TvdCateQty" class="control-label"></label>
+                <input asp-for="TvdCateQty" class="form-control" />
+                <span asp-validation-for="TvdCateQty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TvdPicture" class="control-label"></label>
+                <input asp-for="TvdPicture" class="form-control" />
+                <span asp-validation-for="TvdPicture" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="TvdCateActive" /> @Html.DisplayNameFor(model => model.TvdCateActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\controllers\\tvdcatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:controllers\\tvdcatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Models\\NetCoreCRUDContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\NetCoreCRUDContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\views\\tvdhome\\tvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:views\\tvdhome\\tvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\controllers\\tvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:controllers\\tvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|e:\\dev_tdew\\laptrinhweb\\tranvandiem_231230742_de02\\views\\tvdshared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC439308-9740-4F1F-9531-B29CE0F94749}|TranVanDiem_231230742_de02.csproj|solutionrelative:views\\tvdshared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T04:26:49.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetCoreCRUDContext.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Models\\NetCoreCRUDContext.cs",
+              "RelativeDocumentMoniker": "Models\\NetCoreCRUDContext.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Models\\NetCoreCRUDContext.cs",
+              "RelativeToolTip": "Models\\NetCoreCRUDContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:09:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\tvdShared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\tvdShared\\Error.cshtml",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\tvdShared\\Error.cshtml",
+              "RelativeToolTip": "Views\\tvdShared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:39:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:37:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tvdHomeController.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Controllers\\tvdHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\tvdHomeController.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Controllers\\tvdHomeController.cs",
+              "RelativeToolTip": "Controllers\\tvdHomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:32:08.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:29:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TvdCatalogsController.cs",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Controllers\\TvdCatalogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvdCatalogsController.cs",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Controllers\\TvdCatalogsController.cs",
+              "RelativeToolTip": "Controllers\\TvdCatalogsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:19:08.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tvdAbout.cshtml",
+              "DocumentMoniker": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\tvdHome\\tvdAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\tvdHome\\tvdAbout.cshtml",
+              "ToolTip": "E:\\dev_tdew\\LapTrinhWeb\\TranVanDiem_231230742_de02\\Views\\tvdHome\\tvdAbout.cshtml",
+              "RelativeToolTip": "Views\\tvdHome\\tvdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:24:13.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,8 @@
-﻿@model IEnumerable<Student>
+﻿@{
+    ViewData["Title"] = "Student List";
+    Layout = "~/Views/Shared/Mylayout.cshtml";
+}
+@model IEnumerable<Student>
 <a asp-controller="Student" asp-action="Create" class="btn btn-primary">Create Student</a>
 <table class=" table table-striped">
     <thead>

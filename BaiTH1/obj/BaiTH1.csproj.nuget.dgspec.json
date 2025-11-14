@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEV_Tdew\\LapTrinhWeb\\BaiTH1\\BaiTH1.csproj": {}
+    "E:\\DEV_Tdew\\UTCK64CNTT2-LTW\\BaiTH1\\BaiTH1.csproj": {}
   },
   "projects": {
-    "E:\\DEV_Tdew\\LapTrinhWeb\\BaiTH1\\BaiTH1.csproj": {
+    "E:\\DEV_Tdew\\UTCK64CNTT2-LTW\\BaiTH1\\BaiTH1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEV_Tdew\\LapTrinhWeb\\BaiTH1\\BaiTH1.csproj",
+        "projectUniqueName": "E:\\DEV_Tdew\\UTCK64CNTT2-LTW\\BaiTH1\\BaiTH1.csproj",
         "projectName": "BaiTH1",
-        "projectPath": "E:\\DEV_Tdew\\LapTrinhWeb\\BaiTH1\\BaiTH1.csproj",
+        "projectPath": "E:\\DEV_Tdew\\UTCK64CNTT2-LTW\\BaiTH1\\BaiTH1.csproj",
         "packagesPath": "C:\\Users\\toan0\\.nuget\\packages\\",
-        "outputPath": "E:\\DEV_Tdew\\LapTrinhWeb\\BaiTH1\\obj\\",
+        "outputPath": "E:\\DEV_Tdew\\UTCK64CNTT2-LTW\\BaiTH1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

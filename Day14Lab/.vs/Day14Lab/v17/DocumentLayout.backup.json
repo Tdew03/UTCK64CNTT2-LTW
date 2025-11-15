@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toan0\\Downloads\\Day14Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\day14lab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\day14lab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|c:\\users\\toan0\\downloads\\day14lab\\lab3-4\\day14lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Day14Lab.csproj|solutionrelative:lab3-4\\day14lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day14Lab",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Day14Lab.csproj",
+              "RelativeDocumentMoniker": "Lab3-4\\Day14Lab.csproj",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Day14Lab.csproj",
+              "RelativeToolTip": "Lab3-4\\Day14Lab.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T16:48:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab3-4\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab3-4\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T16:48:53.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:42:21.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Learner.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:58:27.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Lab3-4\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAWwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:42:45.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T08:51:41.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Program.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Program.cs",
+              "RelativeToolTip": "Lab3-4\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:44:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Lab3-4\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Lab3-4\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T16:48:56.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Lab3-4\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:39:13.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Lab3-4\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:39:21.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Branch.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Course.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Lab3-4\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:34:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab3-4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:31:37.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Gender.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Major.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Models\\Student.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:37:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:31:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "Lab3-4\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:38:46.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:38:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:39:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:39:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:39:06.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:40:06.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T08:45:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T08:39:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T08:59:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:44:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:44:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:46:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:46:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:46:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Day14Lab",
+              "DocumentMoniker": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Day14Lab.csproj",
+              "RelativeDocumentMoniker": "Lab3-4\\Day14Lab.csproj",
+              "ToolTip": "C:\\Users\\toan0\\Downloads\\Day14Lab\\Lab3-4\\Day14Lab.csproj",
+              "RelativeToolTip": "Lab3-4\\Day14Lab.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T16:35:30.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

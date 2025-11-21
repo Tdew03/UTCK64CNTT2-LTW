@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Major>
+
+<ul class="nav flex-column">
+    @foreach (var m in Model)
+    {
+        <li class="nav-item">
+            <a asp-controller="Learner" asp-action="Index"
+               asp-route-mid="@m.MajorID"
+               class="nav-link text-dark">
+                @m.MajorName
+            </a>
+        </li>
+    }
+</ul>
